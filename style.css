@@ -35,11 +35,16 @@ body{
 .text-container a{
     text-decoration: none;
     color: white;
-    background-color: rgb(252, 82, 133);
     padding: 10px 25px;
     border-radius: 10px;
+    background: linear-gradient(90deg, MediumVioletRed, tomato);
 }
 
 .text-container p{
     text-align: justify;
+}
+
+.sub-heading{
+    font-size: 2em;
+    text-align: center;
 }
