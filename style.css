@@ -3,7 +3,6 @@ body{
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-family: 'Rubik', sans-serif;
-    /* margin-left: 50px; */
     margin-left: 5%;
 }
 
@@ -14,7 +13,7 @@ body{
 }
 
 .half-width{
-    width: 40%;
+    width: 43%;
     padding-left: 2%;
     padding-right: 3%;  
 }
@@ -30,6 +29,7 @@ body{
 
 .half-width img{
     width: 100%;
+    border-radius: 40px;
 }
 
 .text-container a{
@@ -38,6 +38,7 @@ body{
     padding: 10px 25px;
     border-radius: 10px;
     background: linear-gradient(90deg, MediumVioletRed, tomato);
+    margin-top: 20px;
 }
 
 .text-container p{
@@ -51,7 +52,7 @@ body{
 
 .card-container{
     max-height: 400px;
-    width: 25%;
+    width: 26%;
     padding: 0 10px;  
     border-radius: 20px;
     margin: 0 20px;
@@ -80,6 +81,6 @@ body{
     background-color: rgb(233, 207, 245);
 }
 
-.hh{
-    /* margin-left: 5%; */
+.image{
+    border-radius: 20px;
 }
