@@ -33,8 +33,8 @@ section{
 }
 
 .half-width img{
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     border-radius: 40px;
 }
 
@@ -59,7 +59,7 @@ section{
 }
 
 .sub-heading{
-    font-size: 45px;
+    font-size: 50px;
     text-align: center;
 }
 
