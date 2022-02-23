@@ -11,9 +11,10 @@ section{
 }
 
 #heading{
-    font-size: 1.5em;
+    font-size: 2em;
     border-left: 5px solid tomato;
     padding-left: 15px;
+    line-height: 40px;
 }
 
 .half-width{
